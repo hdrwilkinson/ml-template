@@ -1,0 +1,6 @@
+flax
+jax
+numpy
+optax
+pre-commit
+tensorflow

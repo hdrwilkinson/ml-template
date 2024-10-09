@@ -1,0 +1,10 @@
+.mypy_cache
+.ruff_cache
+.vscode
+.pytest_cache
+
+# Environment
+.env
+
+# Logs
+logging/
